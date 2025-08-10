@@ -1,1 +1,0 @@
-# aws-movie-analytics-pipeline
